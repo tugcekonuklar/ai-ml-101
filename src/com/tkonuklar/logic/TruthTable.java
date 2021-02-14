@@ -16,7 +16,7 @@ public class TruthTable {
     }
 
     public static void main(String[] args) {
-        printTruthTable(5); //enter any natural int
+        printTruthTable(4); //enter any natural int
     }
 
 }
